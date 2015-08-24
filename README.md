@@ -1,8 +1,6 @@
 ##Lucy Hargrave
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
-
-
+When picking Hogwarts houses I can never decide if I belong in Ravenclaw or Slytherin, do I prize wit and learning above cunning and ambition? Software development is an industry, that in my opinion will appease both aspect of my personality as it requires constant learning, but also cunning to solve problems and debug spaghetti code.
 
 ## Skills
 
@@ -27,19 +25,18 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Makers Academy (07/06/2015 to 28/08/2015)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- A highly selective 12 week intense coding course.
+- That focused on test driven development, behavioral driven development, pair programming, the agile method and best coding practices.
+- It preaches independent learning and problem-solving.
 
 #### University of Hull (09/2011 to 07/2014)
 
-- English Literature with History of Art, with an emphasis on gender identity.
-- 1st Class Degree
+- First Class BA Hons in English Literature with History of Art
 
 #### Any other qualifications
+
+- Achieved AAB at A Levels
+- Achieved three A's, five B's and a C at GCSE
 
 ## Experience
 
