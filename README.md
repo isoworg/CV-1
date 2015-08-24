@@ -1,48 +1,55 @@
-## Your Name
+## Paul Harker
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Technical Writer turned coder. 7 years experience writing customer-facing software documentation and developer-facing API and integration guides, 12 weeks' experience developing programs and skills with Makers Academy.
 
 ## Skills
 
-#### This Skill
+#### Technical Writing
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Both in a team, using Jira in an Agile environment, and working solo, including owning my own company for freelance purposes. Spoke to Stakeholders, did usability testing, liased with developers about features, and completed release notes.
 
-- Experience
-- Achievements
-- Evidence
+- http://www.netbiscuits.com/knowledge-base/
+- The above documentation was created in Wordpress with DITA methodologies, as the sole technical author of Netbiscuits.
 
-#### Another Skill
+#### Technical Writing Technologies
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Having used a multitude of technologies to create technical documentation, I have somehow acquired a genuine interest in learning new ways to deliver help content.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- Madcap Flare, in which I am certified.
+- Created the Tag Worldwide help using Adobe Robohelp, which is a Help Authoring Tool similar to Flare
+- HTML solutions including FlatDoc and DreamWeaver
+- Backend solutions like Jekyll and XML using DITA.
+
+#### 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (June 2015 to September 2015)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Learnt to code over 12 weeks
+- Dedicated to Test Driven Development, Behaviour Driven Development, Object Orientated Programing.
+- Wrote my experiences in this blog: www.medium.com/@harxy
 
-#### Your University / College (start_date to end_date)
+#### University of East Anglia (2003 to September 2006)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- English and American Literature
 
-#### Any other qualifications
+#### Culford School, Bury St. Edmunds
+  - 11 GCSEs, A-C
+  - 3 A-Levels, A-C + General Studies
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+Netbiscuits (September 2013 to June 2015)    
+Technical Writer
+Perform Media Group (December 2012 to September 2013)   
+Technical Writer
+Map of Medicine (Client of Platform Writing) (January 2012 - December 2012)
+Freelance Technical Writer
+Tag Worldwide (DATES)
+Solo Technical Writer
+Experian QAS (September 2009 - January 2012)
+Technical Writer as part of a large team
+Sepura (September 2007 - September 2009)
+Technical Helpdesk Engineer
+
