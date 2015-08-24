@@ -1,6 +1,8 @@
-## Your Name
+##Lucy Hargrave
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+
+
 
 ## Skills
 
@@ -23,7 +25,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (07/06/2015 to 28/08/2015)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -32,17 +34,26 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### University of Hull (09/2011 to 07/2014)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- English Literature with History of Art, with an emphasis on gender identity.
+- 1st Class Degree
 
 #### Any other qualifications
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Macmillan Publishing** (14/11/2015 to present)    
+*Freelance Romance Book Blogger*
+
+**Character Wines** (21/03/2015 to 06/06/2015)    
+*Sales and Marketing Assistant*
+
+**Boots** (21/11/2014 to 03/01/2015)   
+*Christmas Temp*
+
+**Booker Cash & Carry** (08/09/2014 to 20/11/2014)    
+*Central Income Administrator*
+
+**QED Publishing** (29/07/2013 to 08/09/2013)   
+*Sales and Marketing Intern*
