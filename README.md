@@ -1,10 +1,18 @@
 ##Lucy Hargrave
 
-When picking Hogwarts houses I can never decide if I belong in Ravenclaw or Slytherin, do I prize wit and learning above cunning and ambition? Software development is an industry, that in my opinion will appease both aspect of my personality as it requires constant learning, but also cunning to solve problems and debug spaghetti code.
+When picking Hogwarts houses I can never decide if I belong in Ravenclaw or Slytherin, do I prize wit and learning above cunning and ambition? Software development is an industry, that in my opinion will appease both aspects of my personality as it requires constant learning, but also cunning to solve problems and debug spaghetti code.
 
 ## Skills
 
 #### This Skill
+
+List of Skills
+  - communication
+  - writing
+  - problem solving
+  - baking
+  - social media
+  - 
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
