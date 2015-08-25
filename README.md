@@ -1,6 +1,6 @@
 ##[:email: Natalia Antonova](mailto:5555482@gmail.com)
 
-I am a Ukrainian living in London with a passion for problem solving. After working in architecture and design I decided to make a change  and start a new career as a developer. I'm looking forward to solving real problems and making a difference.
+I am a Ukrainian living in London with a passion for problem solving. After working in architecture and design I decided to make a change  and start a new career as a developer. I'm looking forward to solving real problems and making a difference in web development with an experienced team.
 
 ##Skills
 
