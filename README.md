@@ -8,10 +8,6 @@ I have learnt how to build end-to-end web and mobile apps across two primary lan
 
 Within this, I have learnt to implement TDD and version control methodologies (e.g. Git) and have a detailed understanding of key testing technologies across these frameworks (e.g. Rspec, Capybara, Protractor)
 
-Completed every weekend challenge, using Ruby, Rails, JavaScript, JQuery, Node, AngularJS, HTML, CSS and more, all test-driven.
-I'm a Git addict with over a thousand commits and a hundred-day streak
-Blogged about my experience and personal development at Makers every day
-
 ##Education
 
 ####Makers Academy (June 2015 to August 2015)
