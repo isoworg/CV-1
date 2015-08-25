@@ -27,10 +27,10 @@ Designer,	Nov 2006 – Sep 2007 (www.mk-illumination.co.uk)
 
 Other skills:
 
-Archicad
-3ds Max
-VRay
-Adobe Photoshop
+Archicad,
+3ds Max,
+VRay,
+Adobe Photoshop,
 Google Sketchup
 
 ##Interests:
