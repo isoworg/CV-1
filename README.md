@@ -15,7 +15,7 @@ Within this, I have learnt to implement TDD and version control methodologies (e
 Highly selective 12 week full-time course.Focused on Pair Programming, Test Driven Development, Agile best practices and Software Craftsmanship
 Covered broad range of technologies and testing suites focused around two primary language stacks (Ruby and Javascript)
 
-####National Technical University of Ukraine in Kiev (Faculty of Aerospace Systems),2000-2006
+####Master's degree in engineering (Ukraine), 2000-2006
 
 ##Experience
 
