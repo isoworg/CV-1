@@ -1,6 +1,6 @@
-## Your Name
+## David Upsdale
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+A gamer who grew up in the arcades of London and in love with the current esports scene. Had a long running digital marketing career but now trained in the art of coding at Makers Academy. Looking to develop new skills and to keep working on new and exciting projects.
 
 ## Skills
 
