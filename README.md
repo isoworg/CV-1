@@ -1,10 +1,10 @@
 ##[:email: Natalia Antonova](mailto:5555482@gmail.com)
 
-I am a Ukrainian living in London with a passion for problem solving. After working in architecture and design I decided to make a change  and start a new career as a developer. I'm looking forward to solving real problems and making a difference in web development with an experienced team.
+After working in architecture and design I decided to make a change  and start a new career as a developer.I'm a recent Makers Academy graduate with a passion for problem solving. I'm looking forward to making a difference in web development with an experienced team.
 
 ##Skills
 
-I have learnt how to build end-to-end web and mobile apps across two primary language stacks - Ruby (Ruby-on-Rails) and Javascript - and have extended my skillset to build  mobile app using Ionic(my final project: github.com/5555482/ispy-game).
+I have learnt how to build web and mobile apps across two primary language stacks - Ruby (Ruby-on-Rails) and Javascript - and have extended my skillset to build  mobile app using Ionic(my final project: github.com/5555482/ispy-game).
 
 Within this, I have learnt to implement TDD and version control methodologies (e.g. Git) and have a detailed understanding of key testing technologies across these frameworks (e.g. Rspec, Capybara, Protractor)
 
