@@ -3,6 +3,9 @@
 <img align="left" src="desktop/12183760" width="172px">
 I am a Ukrainian living in London with a passion for problem solving. After working in architecture and design I decided to make a change  and start a new career as a developer. I'm looking forward to solving real problems and making a difference.
 
+
+
+
 ##Skills
 
 
