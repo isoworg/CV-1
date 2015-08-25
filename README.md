@@ -4,15 +4,7 @@ When picking Hogwarts houses I can never decide if I belong in Ravenclaw or Slyt
 
 ## Skills
 
-#### This Skill
-
-List of Skills
-  - communication
-  - writing
-  - problem solving
-  - baking
-  - social media
-  - 
+#### Communication
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -20,7 +12,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Achievements
 - Evidence
 
-#### Another Skill
+#### Problem solving
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -28,6 +20,17 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
+
+#### Writing
+
+Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+
+- I achieved A during my work at B (job, or otherwise)
+- I contributed to the growth of X while doing Y (job, or otherwise)
+- I built this, made this, broke this, fixed this, etc.
+- A link to some on-line evidence (blogs, videos, articles, etc.)
+
+#### Interests
 
 ## Education
 
