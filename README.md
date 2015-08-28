@@ -6,11 +6,9 @@ After working in architecture and design I decided to make a change  and start a
 -------------
 |Project Name | Description |
 |-------------|-------------|
-|[angular-shop] (https://github.com/NicolePell/angular-shop)|a responsive single page angular web shop with six clothing categories.|
-|[pandapop](https://github.com/nicolepell/pandapop)| pandapop! is a social karaoke web player for YouTube karaoke videos. Test driven and built during 2 weeks as a final project at Makers Academy|
-|[Table Tennis Tournament](https://github.com/nicolepell/tournament_prog)|A web app designed to manage a table tennis tournament built using Sinatra, PostgreSQL and Ruby|
-|[Jumparound](https://github.com/NicolePell/jumparound)|A web app built during a 3-day hackathon at Makers using Rails and GMaps. The app is designed to help locate "Sean's" jumper and post sightings on the map.|
-|[backgammon (in progress)](https://github.com/nicolepell/backgammon)| A strategy board game built in Ruby |
+|[ISpy] (https://github.com/5555482/ispy-game)|A mobile game for children (using Ionic and Protractor for testing).|
+|[Bookmark manager](https://github.com/5555482/bookmark_manager)|A Sinatra application designed to manage a bookmark.|
+|[Takeaway](https://github.com/5555482/takeaway-challenge)|A web app Takeaway(text sending functionality is implemented using Twilio API).|
 
 ##Skills
 
