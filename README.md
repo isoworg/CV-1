@@ -3,12 +3,14 @@
 After working in architecture and design I decided to make a change  and start a new career as a developer.I'm a recent Makers Academy graduate with a passion for problem solving. I'm looking forward to making a difference in web development with an experienced team.
 
 ##Selected projects
-
-| [ISpy](https://github.com/5555482/ispy-game) | 
-| [MakerBase](https://github.com/Makerbase/makerbase#makerbase) | [ToDoList-Manager](https://github.com/sanjsanj/todo_challenge#todolist-manager) | [Bowling-Scoresheet](https://github.com/sanjsanj/bowling-challenge#bowling-challenge) |
-| :---: | :---: | :---: | :---: |
-| 4-people, 2 days | 4-people, 2 weeks | Solo, 1 weekend | Solo, 1 weekend |
-| Rails, PostgreSQL | Rails, PostgreSQL | JS, AngularJS | JS, AngularJS |
+-------------
+|Project Name | Description |
+|-------------|-------------|
+|[angular-shop] (https://github.com/NicolePell/angular-shop)|a responsive single page angular web shop with six clothing categories.|
+|[pandapop](https://github.com/nicolepell/pandapop)| pandapop! is a social karaoke web player for YouTube karaoke videos. Test driven and built during 2 weeks as a final project at Makers Academy|
+|[Table Tennis Tournament](https://github.com/nicolepell/tournament_prog)|A web app designed to manage a table tennis tournament built using Sinatra, PostgreSQL and Ruby|
+|[Jumparound](https://github.com/NicolePell/jumparound)|A web app built during a 3-day hackathon at Makers using Rails and GMaps. The app is designed to help locate "Sean's" jumper and post sightings on the map.|
+|[backgammon (in progress)](https://github.com/nicolepell/backgammon)| A strategy board game built in Ruby |
 
 ##Skills
 
