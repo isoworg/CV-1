@@ -43,7 +43,7 @@ Designer,	Nov 2006 – Sep 2007 (www.mk-illumination.co.uk)
 
 ####Interests:
 
-Yoga, chess, tennis, reading
+Yoga, chess, tennis, reading, photo (http://www.shutterstock.com/gallery-746503p1.html)
 
 ####Languages
 
