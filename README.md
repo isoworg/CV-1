@@ -25,7 +25,7 @@ Confident problem solver.
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-#### Pair Programmer
+#### Pair Programming
 
 **Interests**
 
