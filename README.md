@@ -1,12 +1,12 @@
 ##Lucy Hargrave
 
-When picking Hogwarts houses I can never decide if I belong in Ravenclaw or Slytherin, do I prize wit and learning above cunning and ambition? Software development is an industry, that in my opinion will appease both aspects of my personality as it requires constant learning, but also cunning to solve problems and debug spaghetti code.
+When picking Hogwarts houses I can never decide if I belong in Ravenclaw or Slytherin, do I prize wit and learning above cunning and ambition? Software development is an industry, that in my opinion will appease both aspects of my personality as it requires constant learning, but also cunning to solve problems and debug spaghetti code. Going forward I want to work for a company that allows me to work in a variety of lanuages and offers full-stack development opportunities.
 
 ## Skills
 
 #### Communication
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I am a confident written communicator and also capable at oral communication. 
 
 - Experience
 - Achievements
@@ -32,13 +32,15 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Interests
 
+- Social media, reading, baking and gaming
+
 ## Education
 
 #### Makers Academy (07/06/2015 to 28/08/2015)
 
 - A highly selective 12 week intense coding course.
-- That focused on test driven development, behavioral driven development, pair programming, the agile method and best coding practices.
-- It preaches independent learning and problem-solving.
+- That focuses on test driven development, behavioral driven development, pair programming, the agile method and best coding practices.
+- It emphasises independent learning and problem-solving.
 
 #### University of Hull (09/2011 to 07/2014)
 
