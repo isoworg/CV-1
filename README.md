@@ -9,9 +9,9 @@ When picking Hogwarts houses I can never decide if I belong in Ravenclaw or Slyt
 I am a confident written communicator and also capable at oral communication.
 
   What I want to mention:
-    - public speaking (Final Project Presentation)
-    - informal writing skills (Blogging for H&H)
-    - Technical writing skills (Link to readme)
+  - public speaking (Final Project Presentation)
+  - informal writing skills (Blogging for H&H)
+  - Technical writing skills (Link to readme)
 
 #### Problem solving
 
@@ -25,9 +25,15 @@ Confident problem solver.
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-#### Interests
+#### Pair Programmer
 
-- Social media, reading, baking and gaming
+**Interests**
+
+- Social media
+- Reading
+- Baking
+- Travelling
+- Gaming
 
 ## Education
 
