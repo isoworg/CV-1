@@ -6,10 +6,10 @@ When picking Hogwarts houses I can never decide if I belong in Ravenclaw or Slyt
 
 #### Communication
 
-I am a confident written communicator and also capable at oral communication.
+I am a confident written communicator and also a capable verbal communicator. These skills developed during university and have conintued to flourish due to my frequent blogging and public speaking.
 
-  What I want to mention:
   - public speaking (Final Project Presentation)
+  - Top star sales person for boots (31 in a day)
   - informal writing skills (Blogging for H&H)
   - Technical writing skills (Link to readme)
 
@@ -17,15 +17,13 @@ I am a confident written communicator and also capable at oral communication.
 
 Confident problem solver.
 
-  What I want to mention:
-    - 
+  - Link to a difficult test (before and after)
+  - I made a playground in Cambodia
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Planning
 
-#### Pair Programming
+  - Pre-trip planning around Canada
+  - University work organiser
 
 **Interests**
 
