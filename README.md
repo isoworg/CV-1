@@ -1,12 +1,12 @@
 ##Lucy Hargrave
 
-When picking Hogwarts houses I can never decide if I belong in Ravenclaw or Slytherin, do I prize wit and learning above cunning and ambition? Software development is an industry, that in my opinion will appease both aspects of my personality as it requires constant learning, but also cunning to solve problems and debug spaghetti code. Going forward I want to be part of a company that codes in a variety of lanuages and offers full-stack development opportunities.
+When picking Hogwarts houses I can never decide if I belong in Ravenclaw or Slytherin, do I prize wit and learning above cunning and ambition? Software development is an industry, that in my opinion will appease both aspects of my personality as it requires constant learning, but also cunning to solve problems and debug spaghetti code. Going forward I want to be part of a company that codes in a variety of languages and offers full-stack development opportunities.
 
 ## Skills
 
 #### Communication
 
-I am a confident written communicator and also a capable verbal communicator. These skills developed during university and have conintued to flourish due to my frequent blogging and public speaking. This is shown by a variety of situations:
+I am a confident written and verbal communicator. These skills developed during university and have conintued to flourish due to my frequent blogging and public speaking. This is shown by a variety of situations:
 
   - I have lots of experience with public speaking, both as a group and as an individual. Most recently I presented my Makers Academy final project, <a href="https://github.com/Triffanys101/camping-app">Beyond Camping</a>, to roughly 30 - 40 people alongside my team.
   - I also have a talent and passion for interacting and talking to people on a more personal level. It was this skill that led to me becoming one of Boots top sales people during my time with them. I was often assigned to sell the star product of the week, one time achieving 31 sales in a day.
