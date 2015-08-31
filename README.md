@@ -14,11 +14,11 @@ I am a confident written communicator and also a capable verbal communicator. Th
 
 #### Problem solving
 
-Another skill I possess is the ability to solve problems, in part because I can quickly assimilate information and discover possible solutions. It is a skill that was developed during university as I was taught how to analyse problems and interpret information quickly. Yet I have found it can be transfer to code and also real-life situations.
+Another skill I possess is the ability to solve problems, in part because I can quickly assimilate information and discover possible solutions. It is a skill that was developed during university as I was taught how to analyse problems and interpret information quickly. Yet I have found it can be transferred to code and real-life situations.
 
   - Link to a difficult test (before and after)
   - While working for Character Wines I was asked to create the format and structure for one of their <a href="https://www.youtube.com/watch?v=FL6w0WH5D_M&feature=youtu.be">promotional videos</a>. It aimed to tell the story of the company and the process they went through when sourcing new wines for the UK market. 
-  - I made a playground in Cambodia
+  - While volunteering in Cambodia (Jun-2012 to Jul-2012) I was part of Reach Out Volunteers whose role was to educate the local villagers, with particular focus on teaching the next generation. This was in part achieved through educated learning, in order to enage children of variety of ages we made an educational playground.
 
 #### Organisation
 
