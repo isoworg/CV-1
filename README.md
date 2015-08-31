@@ -16,7 +16,7 @@ I am a confident written communicator and also a capable verbal communicator. Th
 
 Another skill I possess is the ability to solve problems, in part because I can quickly assimilate information and discover possible solutions. It is a skill that was developed during university as I was taught how to analyse problems and interpret information quickly. Yet I have found it can be transferred to code and real-life situations.
 
-  - 
+  - One project I worked on while studying at Makers Academy was the development of a weather website. This website was written in javascript and too increase the aesthetic appeal of the site I chose to make the background responsive. Depending on the city chosen by the user the background would reflect an image of that city. Initially linking the Google image search API with the javascript dropdown was problematic, yet as seen in <a href="https://github.com/Triffanys101/Thermostat/commit/87e1f8d4665fd03f21494482b17bbe3c3f10718f">this commit</a> the issue was resolved. 
   - When working for Character Wines I was asked to create the format and structure for one of their <a href="https://www.youtube.com/watch?v=FL6w0WH5D_M&feature=youtu.be">promotional videos</a>. It aimed to tell the story of the company and the process they went through when sourcing new wines for the UK market. 
   - While volunteering in Cambodia (Jun-2012 to Jul-2012) I was part of Reach Out Volunteers whose role was to educate the local villagers, with particular focus on teaching the next generation. This was in part achieved through educated learning, in order to enage children of variety of ages we made an educational playground.
 
