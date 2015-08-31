@@ -22,7 +22,7 @@ I am a confident problem solver who can quickly assess problems and discover sol
 
 #### Organisation
 
-I noticed at Makers (and previous) places that I naturally gravitate to organising groups and creating the plans  against which we work. This is because I can empathise with other people, have a view of the big picture and naturally know which tasks should be done in what sequence. Outside of Makers my plans have included:
+I noticed during Makers, and at previous places that I naturally gravitate to organising groups and creating the plans against which we would work. This is because I can empathise with other people, have a view of the big picture and naturally know which tasks should be given priority. Outside of Makers this has included:
 
   - Pre-trip planning for Canada
   - filing system at Booker
