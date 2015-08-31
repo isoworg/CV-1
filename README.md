@@ -41,7 +41,7 @@ I noticed during Makers, and at previous places that I naturally gravitate to or
 
 - A highly selective 12 week intense coding course.
 - That focuses on test driven development, behavioral driven development, pair programming, the agile method and best coding practices.
-- It emphasises independent learning and problem-solving.
+- Although it focuses on Ruby and Javascript it emphasises the importance of learning to learn code languages and to the ability to debug code independently and in the correct manner.
 
 #### University of Hull (Sep-2011 to Jul-2014)
 
