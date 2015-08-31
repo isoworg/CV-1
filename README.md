@@ -24,7 +24,7 @@ Another skill I possess is the ability to solve problems, in part because I can 
 
 I noticed during Makers, and at previous places that I naturally gravitate to organising groups and creating the plans against which we would work. This is because I can empathise with other people, have a view of the big picture and naturally know which tasks should be given priority. Outside of Makers this has included:
 
-  - After graduating from university I decided to go travelling around Canada, however, as this would be my first time as a solo traveller it felt important to arrangeas many aspects of the trip in advance as possible. This involves planning my route across the country, organising flights when needed and arranging hostels to stay in. During my month of travelling I visited Toronto, Ottawa, Montreal and Quebec City.
+  - After graduating from university I decided to go travelling around Canada, however, as this would be my first time as a solo traveller it felt important to arrange as many aspects of the trip in advance as possible. This involves planning my route across the country, organising flights when needed and arranging hostels to stay in. During my month of travelling I visited Toronto, Ottawa, Montreal and Quebec City.
   - While working for Booker Cash and Carry I noticed the filing system was outdated and disorganised. This meant many hours were wasted trying to find relevant files. Therefore I took it upon myself to re-organise the finance department's filing, first by company and then year, making it easier to find the relevant information.
 
 **Interests**
