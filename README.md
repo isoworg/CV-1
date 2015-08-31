@@ -37,13 +37,13 @@ I noticed during Makers, and at previous places that I naturally gravitate to or
 
 ## Education
 
-#### Makers Academy (07/06/2015 to 28/08/2015)
+#### Makers Academy (07-Jun-2015 to 28-Aug-2015)
 
 - A highly selective 12 week intense coding course.
 - That focuses on test driven development, behavioral driven development, pair programming, the agile method and best coding practices.
 - It emphasises independent learning and problem-solving.
 
-#### University of Hull (09/2011 to 07/2014)
+#### University of Hull (Sep-2011 to Jul-2014)
 
 - First Class BA Hons in English Literature with History of Art
 
