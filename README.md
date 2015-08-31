@@ -14,7 +14,7 @@ I am a confident written communicator and also a capable verbal communicator. Th
 
 #### Problem solving
 
-I am a confident problem solver who can quickly assimilate information and discover possible solutions. It is a skill that was developed during university as I was tauht how to analyse problems and interpret information quickly. Yet I have found it can be transfer to code and also real-life situations.
+Another skill I possess is the ability to solve problems, in part because I can quickly assimilate information and discover possible solutions. It is a skill that was developed during university as I was taught how to analyse problems and interpret information quickly. Yet I have found it can be transfer to code and also real-life situations.
 
   - Link to a difficult test (before and after)
   - Created the structure and format for a video for Character Wines
