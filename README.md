@@ -14,7 +14,7 @@ I am a confident written communicator and also a capable verbal communicator. Th
 
 #### Problem solving
 
-I am a confident problem solver who can quickly assess problems and discover solutions.  
+I am a confident problem solver who can quickly assimilate information and discover possible solutions. A skill that I can transfer across written text, code and when dealing with groups.
 
   - Link to a difficult test (before and after)
   - Created the structure and format for a video for Character Wines
