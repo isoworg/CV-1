@@ -49,10 +49,10 @@ I noticed during Makers, and at previous places that I naturally gravitate to or
 
 #### Any other qualifications
 
-- Achieved AAB at A Levels
+- Achieved AAB at A2 Levels
 - Achieved A at AS Level
 - Achieved three A's, five B's and a C at GCSE
-- Full UK driving license
+- Full UK driving licence
 
 ## Experience
 
