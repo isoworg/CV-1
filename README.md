@@ -22,8 +22,8 @@ I am a confident problem solver who can quickly assess problems and discover sol
 
 #### Organisation
 
-  - Pre-trip planning around Canada
-  - University work organiser
+  - Pre-trip planning for Canada
+  - filing system at Booker
 
 **Interests**
 
