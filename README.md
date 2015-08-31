@@ -6,7 +6,7 @@ When picking Hogwarts houses I can never decide if I belong in Ravenclaw or Slyt
 
 #### Communication
 
-I am a confident written communicator and also a capable verbal communicator. These skills developed during university and have conintued to flourish due to my frequent blogging and public speaking.
+I am a confident written communicator and also a capable verbal communicator. These skills developed during university and have conintued to flourish due to my frequent blogging and public speaking. This is shown by a variety of situations:
 
   - I have lots of experience with public speaking, both as a group and as an individual. Most recently I presented my Makers Academy final project, <a href="https://github.com/Triffanys101/camping-app">Beyond Camping</a>, to roughly 30 - 40 people alongside my team.
   - I also have a talent and passion for interacting and talking to people on a more personal level. It was this skill that led to me becoming one of Boots top sales people during my time with them. I was often asigned to sell the star product of the week, one time achieving 31 sales in a day.
@@ -17,9 +17,12 @@ I am a confident written communicator and also a capable verbal communicator. Th
 I am a confident problem solver who can quickly assess problems and discover solutions.  
 
   - Link to a difficult test (before and after)
+  - Created the structure and format for a video for Character Wines
   - I made a playground in Cambodia
 
 #### Organisation
+
+I noticed at Makers (and previous) places that I naturally gravitate to organising groups and creating the plans  against which we work. This is because I can empathise with other people, have a view of the big picture and naturally know which tasks should be done in what sequence. Outside of Makers my plans have included:
 
   - Pre-trip planning for Canada
   - filing system at Booker
