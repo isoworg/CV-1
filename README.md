@@ -61,7 +61,7 @@ I noticed during Makers, and at previous places that I naturally gravitate to or
 *Sales and Marketing Assistant*
 
 **Boots** (21-Nov-2014 to 03-Jan-2015)   
-*Christmas Temp*
+*Christmas Sales Temp*
 
 **Booker Cash & Carry** (08-Sep-2014 to 20-Nov-2014)    
 *Central Income Administrator*
