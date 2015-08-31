@@ -51,6 +51,7 @@ I noticed during Makers, and at previous places that I naturally gravitate to or
 
 - Achieved AAB at A Levels
 - Achieved three A's, five B's and a C at GCSE
+- Full UK driving license
 
 ## Experience
 
