@@ -8,10 +8,9 @@ When picking Hogwarts houses I can never decide if I belong in Ravenclaw or Slyt
 
 I am a confident written communicator and also a capable verbal communicator. These skills developed during university and have conintued to flourish due to my frequent blogging and public speaking.
 
-  - public speaking (Final Project Presentation)
-  - Top star sales person for boots (31 in a day)
-  - informal writing skills (Blogging for H&H)
-  - Technical writing skills (Link to readme)
+  - I have lots of experience with public speaking, both as a group and as an individual. Most recently I presented my Makers Academy final project, <a href="https://github.com/Triffanys101/camping-app">Beyond Camping</a>, to roughly 30 - 40 people alongside my team.
+  - I also have a talent and passion for interacting and talking to people on a more personal level. It was this skill that led to me becoming one of Boots top sales people during my time with them. I was often asigned to sell the star product of the week, one time achieving 31 sales in a day.
+  - Since November 2014 I have been freelance blogging for Heroes and Heartbreakers, a website of Macmillan Publishing. This has been an amazing experience and has allowed me to develop my skill of informal written communication, as demonstrated in the following <a href="http://www.heroesandheartbreakers.com/blogs/2015/04/villainess-to-heroine-do-they-exist">post</a>. 
 
 #### Problem solving
 
