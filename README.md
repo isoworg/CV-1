@@ -15,12 +15,12 @@ I am a confident written communicator and also a capable verbal communicator. Th
 
 #### Problem solving
 
-Confident problem solver.
+I am a confident problem solver who can quickly assess problems and discover solutions.  
 
   - Link to a difficult test (before and after)
   - I made a playground in Cambodia
 
-#### Planning
+#### Organisation
 
   - Pre-trip planning around Canada
   - University work organiser
