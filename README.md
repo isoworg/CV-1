@@ -1,6 +1,6 @@
 ##Lucy Hargrave
 
-When picking Hogwarts houses I can never decide if I belong in Ravenclaw or Slytherin, do I prize wit and learning above cunning and ambition? Software development is an industry, that in my opinion will appease both aspects of my personality as it requires constant learning, but also cunning to solve problems and debug spaghetti code. Going forward I want to work for a company that allows me to work in a variety of lanuages and offers full-stack development opportunities.
+When picking Hogwarts houses I can never decide if I belong in Ravenclaw or Slytherin, do I prize wit and learning above cunning and ambition? Software development is an industry, that in my opinion will appease both aspects of my personality as it requires constant learning, but also cunning to solve problems and debug spaghetti code. Going forward I want to be part of a company that codes in a variety of lanuages and offers full-stack development opportunities.
 
 ## Skills
 
