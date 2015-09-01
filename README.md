@@ -1,6 +1,6 @@
 ## David Upsdale
 
-A gamer who grew up in the arcades of London and in love with the current esports scene. Had a long running digital marketing career but now trained in the art of coding at Makers Academy. Looking to develop new skills and to keep working on new and exciting projects.
+A gamer who grew up in the arcades of London and in love with the current esports scene. Had a long running digital marketing career but now trained in the art of coding at Makers Academy. Looking to develop my skills and to keep working on new and exciting projects.
 
 ## Skills
 
@@ -32,17 +32,18 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### UMIST (start_date to end_date)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Mathematics (MMath)
+- Purist to the core
 
 #### Any other qualifications
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
+**Bathrooms.com** (start_date to end_date)    
+*Paid Performance Exec*  
+**Factory Media** (start_date to end_date)   
+*Your job title*
+**Blowfish Digital** (start_date to end_date)   
 *Your job title*  
