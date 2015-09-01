@@ -43,7 +43,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 **Bathrooms.com** (start_date to end_date)    
 *Paid Performance Exec*  
-**Factory Media** (start_date to end_date)   
-*Your job title*
-**Blowfish Digital** (start_date to end_date)   
+**Factory Media** (start_date to end_date)     
+*Your job title*  
+**Blowfish Digital** (start_date to end_date)     
 *Your job title*  
