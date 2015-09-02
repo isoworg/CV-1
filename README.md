@@ -38,13 +38,11 @@ an evolving digital marketing environment.
 - Maths (MMath)
 - Pure mathematician to the core
 
-#### Any other qualifications
-
 ## Experience
 
-**Bathrooms.com** (January 2014 to May 2015)
-*Paid Performance Executive*
-**Factory** (Aug 2012 to Aug 2013)
-*Search Analyst*
-**Blowfish Digital** (Nov 2010 to July 2012)
-*Operations Executive*
+**Bathrooms.com** (January 2014 to May 2015)  
+*Paid Performance Executive*  
+**Factory** (Aug 2012 to Aug 2013)  
+*Search Analyst*  
+**Blowfish Digital** (Nov 2010 to July 2012)  
+*Operations Executive*  
