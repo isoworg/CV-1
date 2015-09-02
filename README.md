@@ -1,6 +1,6 @@
 ## David Upsdale
 
-A gamer who grew up in the arcades of London and in love with the current eSports scene. Moving on from a long running digital marketing career in order to express myself in the coding universe. Looking to do exciting things in new and varied work environments.
+A gamer who grew up in the arcades of London and in love with the current eSports scene. Moving on from a long running digital marketing career in order to express myself in the coding universe. Hoping to work on new and exciting projects that can test my skills.
 
 ## Skills
 
