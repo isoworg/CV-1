@@ -20,8 +20,7 @@ an evolving digital marketing environment.
 
 - Had to work with numerous different marketing technologies including Google Ads, Google Analytics,
   Bing Ads, Facebook Ads, MediaMath, Turn, Unica, Marin, DoubleClick, Mediaplex, Kenshoo, I could go on....
-- Always looking to work with interesting coding tech (albeit with varying success), and enjoying finding the potential and limits of the new tools
-  I've found since my move to coding.
+- Always looking to work with interesting coding tech (albeit with varying success), and enjoying finding the potential and limits of the new tools I've found since my move to coding.
 - Check my github! (LINKS HERE PLEASE)
 
 ## Education
@@ -29,9 +28,9 @@ an evolving digital marketing environment.
 #### Makers Academy (June 2015 - Sept 2015)
 
 - Learnt to learn
-- Working on my Ruby and JS
+- Discovered a strength for low-level/system logic in both Ruby and JS.
 - Ruby, Rails, Javascript, Angular.js
-- Rspec, Jasmine
+- Rspec, Capybara, Jasmine
 
 #### UMIST (start_date to end_date)
 
