@@ -1,49 +1,50 @@
 ## David Upsdale
 
-A gamer who grew up in the arcades of London and in love with the current esports scene. Had a long running digital marketing career but now trained in the art of coding at Makers Academy. Looking to develop my skills and to keep working on new and exciting projects.
+A gamer who grew up in the arcades of London and in love with the current eSports scene. Moving on from a long running digital marketing career in order to express myself in the coding universe. Looking to do exciting things in new and varied work environments.
 
 ## Skills
 
-#### This Skill
+#### Code Monkey
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Ooh ooh aah aah js, MVP, OOD, REST, CRUD aw yeah!
 
-- Experience
-- Achievements
-- Evidence
+- Love me some good business logic
+- Give me a puzzle I'll solve it
+- Merge errors and refactoring a speciality
+- Check out THESE LINKS
 
-#### Another Skill
+#### New Meta
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I pride myself in my ability to pick up new piece of technology quickly. Trained through a childhood of board and video games, but honed though
+an evolving digital marketing environment.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- Had to work with numerous different marketing technologies including Google Ads, Google Analytics,
+  Bing Ads, Facebook Ads, MediaMath, Turn, Unica, Marin, DoubleClick, Mediaplex, Kenshoo, I could go on....
+- Always looking to work with interesting coding tech (albeit with varying success), and enjoying finding the potential and limits of the new tools
+  I've found since my move to coding.
+- Check my github! (LINKS HERE PLEASE)
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (June 2015 - Sept 2015)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Learnt to learn
+- Working on my Ruby and JS
+- Ruby, Rails, Javascript, Angular.js
+- Rspec, Jasmine
 
 #### UMIST (start_date to end_date)
 
-- Mathematics (MMath)
-- Purist to the core
+- Maths (MMath)
+- Pure mathematician to the core
 
 #### Any other qualifications
 
 ## Experience
 
-**Bathrooms.com** (start_date to end_date)    
-*Paid Performance Exec*  
-**Factory Media** (start_date to end_date)     
-*Your job title*  
-**Blowfish Digital** (start_date to end_date)     
-*Your job title*  
+**Bathrooms.com** (January 2014 to May 2015)
+*Paid Performance Executive*
+**Factory** (Aug 2012 to Aug 2013)
+*Search Analyst*
+**Blowfish Digital** (Nov 2010 to July 2012)
+*Operations Executive*
