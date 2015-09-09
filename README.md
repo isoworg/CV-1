@@ -1,17 +1,19 @@
 ## David Upsdale
 
+Forgive me, this is a working progress. I'm having too much fun doing tech tests at the moment...
+
 A gamer who grew up in the arcades of London and in love with the current eSports scene. Moving on from a long running digital marketing career in order to express myself in the coding universe. Hoping to work on new and exciting projects that can test my skills.
 
 ## Skills
 
 #### Code Monkey
 
-Ooh ooh aah aah js, MVP, OOD, REST, aw yeah!
+Ooh ooh aah aah JS, MVP, OOD, REST, TDD aw yeah!
 
 - Love me some good business logic
 - Give me a puzzle I'll solve it
 - Merge errors and refactoring a speciality
-- Check out THESE LINKS
+- Check out these repos:
 
 #### New Meta
 
