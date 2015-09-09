@@ -6,7 +6,7 @@ A gamer who grew up in the arcades of London and in love with the current eSport
 
 #### Code Monkey
 
-Ooh ooh aah aah js, MVP, OOD, REST, CRUD aw yeah!
+Ooh ooh aah aah js, MVP, OOD, REST, aw yeah!
 
 - Love me some good business logic
 - Give me a puzzle I'll solve it
@@ -21,20 +21,20 @@ an evolving digital marketing environment.
 - Had to work with numerous different marketing technologies including Google Ads, Google Analytics,
   Bing Ads, Facebook Ads, MediaMath, Turn, Unica, Marin, DoubleClick, Mediaplex, Kenshoo, I could go on....
 - Always looking to work with interesting coding tech (albeit with varying success), and enjoying finding the potential and limits of the new tools I've found since my move to coding.
-- Check my github! (LINKS HERE PLEASE)
+- Check my [github!](https://github.com/duskyshelf)
 
 ## Education
 
 #### Makers Academy (June 2015 - Sept 2015)
 
 - Learnt to learn
-- Discovered a strength for low-level/system logic in both Ruby and JS.
+- Full stack, but with a preference for low-level/system logic in both Ruby and JS.
 - Ruby, Rails, Javascript, Angular.js
 - Rspec, Capybara, Jasmine
 
-#### UMIST (start_date to end_date)
+#### UMIST (2004 to 2008)
 
-- Maths (MMath)
+- Mathematics (MMath)
 - Pure mathematician to the core
 
 ## Experience
