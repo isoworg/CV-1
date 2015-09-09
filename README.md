@@ -13,7 +13,7 @@ Ooh ooh aah aah JS, MVP, OOD, REST, TDD aw yeah!
 - Love me some good business logic
 - Give me a puzzle I'll solve it
 - Merge errors and refactoring a speciality
-- Check out these repos:
+- Some of my favourite repos [bowling challenge](https://github.com/duskyshelf/bowling-challenge), [iSpy (final project)](https://github.com/duskyshelf/ispy-game)
 
 #### New Meta
 
