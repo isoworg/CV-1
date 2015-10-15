@@ -30,10 +30,10 @@ Some of the projects I've worked on include:
 
 ## Interesting Repos
 
-https://github.com/duskyshelf/bowling-challenge - Pure Javascript ten-pin bowling business logic.
-https://github.com/duskyshelf/clothingshop - AngularJS clothing shop.
-https://github.com/duskyshelf/ispy-game - Final project at Makers Academy. Tourist aimed iSpy app. Built using Ionic.
-https://github.com/duskyshelf/savings-tree - Craftathon project. Built using AngularJS.
+https://github.com/duskyshelf/bowling-challenge - Pure Javascript ten-pin bowling business logic.  
+https://github.com/duskyshelf/clothingshop - AngularJS clothing shop.  
+https://github.com/duskyshelf/ispy-game - Final project at Makers Academy. Tourist aimed iSpy app. Built using Ionic.  
+https://github.com/duskyshelf/savings-tree - Craftathon project. Built using AngularJS.  
 
 ## Education
 
