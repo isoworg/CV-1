@@ -46,7 +46,7 @@ As my family will testify this has been my dream for the last four years.  Maker
 One of reasons I chose this career path is so that it would play to my strengths.  Being creative in solving business problems is an area that I thrive on.
 
 | Project | Summary | Technologies |
-| ------- | -------------- | ---------------- |
+| --- | ---------- | ---------- |
 | Makers BnB | An AirBnB clone application | Ruby, Sinatra, Bootstrap, OOD |
 | Makers BnB | iPhone App | Swift, Parse, OOD |
 | ShirtStream | iPhone App | Swift |
@@ -66,13 +66,12 @@ One of reasons I chose this career path is so that it would play to my strengths
 
 A 16-week intensive development bootcamp, emphasizing:
 
-        •        Pair-programming
-
-        •        Test Driven Development
-
-        •        Object Oriented Design
-
-        •        Agile
+- Pair-programming
+- Test Driven Development
+- Object Oriented Design
+- Agile
+- Ruby
+- JavaScript
 
 **Master of Business Administration (1992 - 1995)**
 
