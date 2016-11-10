@@ -1,4 +1,10 @@
-**Brian Patterson**
+# Brian Patterson
+
+_&quot;If you can&#39;t fly, then run. If you can&#39;t run, then walk. If you can&#39;t walk, then crawl, but whatever you do you have to keep moving forward.&quot;_
+
+_Dr Martin Luther King_
+
+**iOS and Web Developer**
 
 **Profile**
 
@@ -46,7 +52,7 @@ As my family will testify this has been my dream for the last four years.  Maker
 One of reasons I chose this career path is so that it would play to my strengths.  Being creative in solving business problems is an area that I thrive on.
 
 | Project | Summary | Technologies |
-| --- | ---------- | ---------- |
+| --- | --- | --- |
 | Makers BnB | An AirBnB clone application | Ruby, Sinatra, Bootstrap, OOD |
 | Makers BnB | iPhone App | Swift, Parse, OOD |
 | ShirtStream | iPhone App | Swift |
