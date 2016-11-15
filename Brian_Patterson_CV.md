@@ -7,7 +7,7 @@ _Dr Martin Luther King_
 **iOS and Web Developer**
 
 **Profile**
-
+It is with the above quote in mind which best describes my aspirations in this industry.
 I see that you have pickup my CV.  Before you move on, can I ask you to look around and see how well your team is working. The chatter of those that have just been on holiday, or watched what was on the TV the night before. Now I can be part of that team for the following reasons.
 
 - I have a hunger and passion to be part of software development.
