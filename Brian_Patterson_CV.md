@@ -53,11 +53,10 @@ One of reasons I chose this career path is so that it would play to my strengths
 
 **iPhone Development (2012 and ongoing)**
 
-- Submitted 5 app to the App store
+- Submitted 5 apps to the App store
 - Swift Programming
 - Object C
 - Xcode
--
 
 **Makers Academy (June 2016 to September 2016)**
 
@@ -86,7 +85,7 @@ Davidlloyd Leisure Hampton Site (2000 - 2016)
 - Managing Finances and Payroll.
 - Local IT Support.
 - Auditing Financial and Payroll procedures.
-- liaising with Head Office with all matters relating to Income, Banking and Human Resources.
+- Liaising with Head Office with all matters relating to Income, Banking and Human Resources.
 
 **Interests**
 
