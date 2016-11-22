@@ -1,20 +1,11 @@
 # Brian Patterson
 
-_&quot;If you can&#39;t fly, then run. If you can&#39;t run, then walk. If you can&#39;t walk, then crawl, but whatever you do you have to keep moving forward.&quot;_
 
-_Dr Martin Luther King_
 
 **iOS and Web Developer**
 
 **Profile**
-It is with the above quote in mind which best describes my aspirations in this industry.
-I see that you have pickup my CV.  Before you move on, can I ask you to look around and see how well your team is working. The chatter of those that have just been on holiday, or watched what was on the TV the night before. Now I can be part of that team for the following reasons.
-
-- I have a hunger and passion to be part of software development.
-- For the past 17 years I have been working within the Health and Fitness Industry. It is with this in mind that I have an empathy of peoples needs.
-- Understand the demands and needs of Corporate life.
-- To create and contribute to a solution.
-- Embarked on a journey that started in 2012. So self motivated and self taught in software development.
+Passionate about technology and software development.  I am self taught iOS developer and have had 3 Apps feature in the App store.  I am currently a student at Makers Academy and I am looking to forge in career in mobile development/ Web Development.  
 
 **Skills**
 
@@ -24,7 +15,7 @@ Before Makers my introduction to code was through the iPhone. Since 2012 I have 
 
 **Business Practise**
 
-My MBA and my commercial experience over the past 34 years have taught me these key issues:
+My MBA and my commercial experience over the past 34 years have taught me these key issues:  
 
 - Listening to customers needs.
 - How to filter key messages to employees and customers.
@@ -79,13 +70,23 @@ A 16-week intensive development bootcamp, emphasizing:
 - Ruby
 - JavaScript
 
-**Master of Business Administration (1992 - 1995)**
+**Master of Business Administration (1992 - 1995) University of Westminster 1992 - 1995**
 
 - Strategic Business planning
 - Financial Planning
 - Strategic Marketing
 
 **YMCA Trained Personal Trainer (1997)**
+
+**Experience**
+
+Davidlloyd Leisure Hampton Site (2000 - 2016)
+
+- Administration Manager for the Club.
+- Managing Finances and Payroll.
+- Local IT Support.
+- Auditing Financial and Payroll procedures.
+- liaising with Head Office with all matters relating to Income, Banking and Human Resources.
 
 **Interests**
 
