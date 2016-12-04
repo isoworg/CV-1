@@ -4,7 +4,7 @@
 
 **Profile**
 
-Passionate about technology and software development.  I am self taught iOS developer and have had 5 Apps featured in the iOS App store.  I am currently a student at Makers Academy and I am looking to forge in career in mobile development/ Web Development.
+Passionate about technology and software development.  I am self taught iOS developer and have had 5 Apps featured in the iOS App store.  I am currently a student at Makers Academy and I am looking to forge in career in mobile development/ Web Development.  In fact I have been so thrilled about being part of this experience that I have decided to document it in a [Podcast](http://codecastmakers.libsyn.com/) and a [Blog](http://the-makers-journey.ghost.io).
 
 **Skills**
 
@@ -36,7 +36,7 @@ As part of my role as a administrator I was called upon to make analytical decis
 
 **Learning**
 
-As my family will testify this has been my dream for the last four years.  Makers Academy is part of that journey. It all started with a small swimming app. Now I am learning about Web technologies.  Every step of the way I am learning something new.  Challenging myself to reach new goals and technologies.  For me this is the most exciting part of the journey. In fact I have been so thrilled about being part of this experience that I have decided to document it in a [Podcast](http://codecastmakers.libsyn.com/) and a [Blog](http://the-makers-journey.ghost.io).
+As my family will testify this has been my dream for the last four years.  Makers Academy is part of that journey. It all started with a small swimming app. Now I am learning about Web technologies.  Every step of the way I am learning something new.  Challenging myself to reach new goals and technologies.  For me this is the most exciting part of the journey.
 
 **Creativity**
 
