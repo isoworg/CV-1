@@ -5,7 +5,7 @@
 **iOS and Web Developer**
 
 **Profile**
-Passionate about technology and software development.  I am self taught iOS developer and have had 3 Apps feature in the App store.  I am currently a student at Makers Academy and I am looking to forge in career in mobile development/ Web Development.  
+Passionate about technology and software development.  I am self taught iOS developer and have had 3 Apps feature in the App store.  I am currently a student at Makers Academy and I am looking to forge in career in mobile development/ Web Development. In fact I have been so thrilled about being part of this experience that I have decided to document it in a [Podcast](http://codecastmakers.libsyn.com/rss) and a [Blog](http://the-makers-journey.ghost.io).
 
 **Skills**
 
@@ -31,22 +31,23 @@ A key skill to any business  decision is to listen to customers and your colleag
 As part of my role as a administrator I was called upon to make analytical decisions. These involved:
 
 - Analysis of membership trend within the Health Club.
-- Evaluate new revenue streams
+- Evaluate new revenue streams.  
 - Implement employee initiatives from our Head Office.
 
 **Learning**
 
-As my family will testify this has been my dream for the last four years.  Makers Academy is part of that journey. It all started with a small swimming app. Now I am learning about Web technologies.  Every step of the way I am learning something new.  Challenging myself to reach new goals and technologies.  For me this is the most exciting part of the journey. In fact I have been so thrilled about being part of this experience that I have decided to document it in a [Podcast](http://codecastmakers.libsyn.com/rss) and a blog.
+As my family will testify this has been my dream for the last four years.  Makers Academy is part of that journey. It all started with a small swimming app. Now I am learning about Web technologies.  Every step of the way I am learning something new.  Challenging myself to reach new goals and technologies.  For me this is the most exciting part of the journey.
 
 **Creativity**
 
 One of reasons I chose this career path is so that it would play to my strengths.  Being creative in solving business problems is an area that I thrive on.
 
-| Project | Summary | Technologies |
+| Project | Summary | Technologies | Team Number |
 | --- | --- | --- |
-| Makers BnB | An AirBnB clone application | Ruby, Sinatra, Bootstrap, OOD |
-| Makers BnB | iPhone App | Swift, Parse, OOD |
-| ShirtStream | iPhone App | Swift |
+| CatHub | Cat Social Network Application | Ruby on Rails, OOD, Active Record | six |
+| Makers BnB | An AirBnB clone application | Ruby, Sinatra, Bootstrap, OOD | six |
+| Makers BnB | iPhone App | Swift, Parse, OOD | One |
+| ShirtStream | iPhone App | Swift | One |
 |   |   |   |
 
 **Education**
@@ -81,9 +82,9 @@ A 16-week intensive development bootcamp, emphasizing:
 
 Davidlloyd Leisure Hampton Site (2000 - 2016)
 
-- Administration Manager for the Club.
-- Managing Finances and Payroll.
-- Local IT Support.
+- Administration Manager for the Club.  Which has over 6500 members.
+- Managing Finances and Payroll for a over a 130 employees.
+- Local IT Support/ Infrastructure.
 - Auditing Financial and Payroll procedures.
 - Liaising with Head Office with all matters relating to Income, Banking and Human Resources.
 
