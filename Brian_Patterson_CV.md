@@ -1,11 +1,10 @@
 # Brian Patterson
 
-
-
 **iOS and Web Developer**
 
 **Profile**
-Passionate about technology and software development.  I am self taught iOS developer and have had 3 Apps feature in the App store.  I am currently a student at Makers Academy and I am looking to forge in career in mobile development/ Web Development. In fact I have been so thrilled about being part of this experience that I have decided to document it in a [Podcast](http://codecastmakers.libsyn.com/rss) and a [Blog](http://the-makers-journey.ghost.io).
+
+Passionate about technology and software development.  I am self taught iOS developer and have had 5 Apps featured in the iOS App store.  I am currently a student at Makers Academy and I am looking to forge in career in mobile development/ Web Development.
 
 **Skills**
 
@@ -15,7 +14,7 @@ Before Makers my introduction to code was through the iPhone. Since 2012 I have 
 
 **Business Practise**
 
-My MBA and my commercial experience over the past 34 years have taught me these key issues:  
+My MBA and my commercial experience over the past 34 years have taught me these key issues:
 
 - Listening to customers needs.
 - How to filter key messages to employees and customers.
@@ -30,31 +29,32 @@ A key skill to any business  decision is to listen to customers and your colleag
 
 As part of my role as a administrator I was called upon to make analytical decisions. These involved:
 
-- Analysis of membership trend within the Health Club.
-- Evaluate new revenue streams.  
+- Analysis of membership trend within the Health Club. Added administrative support from startup to a multimillion pound health club which has 6500 members.
+- Improved staff retention by 20% by including a self improvement employee scheme.
+- Evaluate new revenue streams eg Golf membership.
 - Implement employee initiatives from our Head Office.
 
 **Learning**
 
-As my family will testify this has been my dream for the last four years.  Makers Academy is part of that journey. It all started with a small swimming app. Now I am learning about Web technologies.  Every step of the way I am learning something new.  Challenging myself to reach new goals and technologies.  For me this is the most exciting part of the journey.
+As my family will testify this has been my dream for the last four years.  Makers Academy is part of that journey. It all started with a small swimming app. Now I am learning about Web technologies.  Every step of the way I am learning something new.  Challenging myself to reach new goals and technologies.  For me this is the most exciting part of the journey. In fact I have been so thrilled about being part of this experience that I have decided to document it in a [Podcast](http://codecastmakers.libsyn.com/) and a [Blog](http://the-makers-journey.ghost.io).
 
 **Creativity**
 
 One of reasons I chose this career path is so that it would play to my strengths.  Being creative in solving business problems is an area that I thrive on.
 
-| Project | Summary | Technologies | Team Number |
-| --- | --- | --- |
-| CatHub | Cat Social Network Application | Ruby on Rails, OOD, Active Record | six |
-| Makers BnB | An AirBnB clone application | Ruby, Sinatra, Bootstrap, OOD | six |
-| Makers BnB | iPhone App | Swift, Parse, OOD | One |
-| ShirtStream | iPhone App | Swift | One |
-|   |   |   |
+| Project | Summary | Technologies | TeamNumber |
+| --- | --- | --- | --- |
+| CatHub | Social Network Application | Ruby on Rails, OOD | Six |
+| Makers BNB | AirBNB Clone | Ruby, Bootstrap, Sinatra | Six |
+| Makers BNB | Companion App for the above | Swift and XCode | One |
+| [ShirtStream](https://itunes.apple.com/us/app/shirtstream/id1121383555?mt=8) | iPhone Application for client. | Swift and XCode | One |
+| [Short Game Golf Academy](https://itunes.apple.com/us/app/short-game-golf-academy/id1135969737?mt=8) | iPhone Application for a Golf School | Swift and XCode | Two |
 
 **Education**
 
 **iPhone Development (2012 and ongoing)**
 
-- Submitted 5 apps to the App store
+- Submitted 5 app to the App store
 - Swift Programming
 - Object C
 - Xcode
@@ -70,7 +70,7 @@ A 16-week intensive development bootcamp, emphasizing:
 - Ruby
 - JavaScript
 
-**Master of Business Administration (1992 - 1995) University of Westminster 1992 - 1995**
+**Master of Business Administration (1992 - 1995)**
 
 - Strategic Business planning
 - Financial Planning
@@ -80,7 +80,7 @@ A 16-week intensive development bootcamp, emphasizing:
 
 **Experience**
 
-Davidlloyd Leisure Hampton Site (2000 - 2016)
+**Davidlloyd Leisure Hampton Site (2000 - 2016)**
 
 - Administration Manager for the Club.  Which has over 6500 members.
 - Managing Finances and Payroll for a over a 130 employees.
