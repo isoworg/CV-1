@@ -44,6 +44,7 @@ One of reasons I chose this career path is so that it would play to my strengths
 
 | Project | Summary | Technologies | TeamNumber |
 | --- | --- | --- | --- |
+| I'm in | Community and Social Network Application | Meteor, JavaScript | Six |
 | CatHub | Social Network Application | Ruby on Rails, OOD | Six |
 | Makers BNB | AirBNB Clone | Ruby, Bootstrap, Sinatra | Six |
 | Makers BNB | Companion App for the above | Swift and XCode | One |
